@@ -4,3 +4,12 @@ body {
   width: 100vw;
   background-color: aqua;
 }
+
+.form {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  padding: 10px;
+}
